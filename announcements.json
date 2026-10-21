@@ -1,0 +1,32 @@
+{
+  "announcements" : [
+    {
+      "action" : {
+        "type" : "guide"
+      },
+      "audience" : "everyone",
+      "body" : {
+        "ar" : "سطر أو سطران عن الجديد.",
+        "en" : "A line or two about what's new."
+      },
+      "button" : {
+        "ar" : "جرّبه",
+        "en" : "Try it"
+      },
+      "ends" : "2026-11-02T11:01:58Z",
+      "icon" : "gift",
+      "id" : "2026-10-21-0815",
+      "minVersion" : "0.5",
+      "platforms" : [
+        "mac",
+        "ios"
+      ],
+      "starts" : "2026-10-29T23:01:53Z",
+      "title" : {
+        "ar" : "عرض الجمعة البيضاء",
+        "en" : "friday white"
+      }
+    }
+  ],
+  "version" : 1
+}
